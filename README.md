@@ -10,8 +10,8 @@ The format of a log line is: date user event
 
 # Usage
 
-php sort.php input.dat
-php sort.php input.dat > output.dat
+    php sort.php input.dat
+    php sort.php input.dat > output.dat
 
 
 # Algorithm
